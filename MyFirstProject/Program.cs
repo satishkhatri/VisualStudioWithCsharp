@@ -36,4 +36,5 @@ string reuslt20 = mathproblam.somOfNumber(23, 34).ToString();
 
 
 Console.WriteLine(reuslt20);
+Console.WriteLine("hello Satios");
 
