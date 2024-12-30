@@ -16,7 +16,7 @@ float result = ClassLibrary1.Calculator.add(a, b);
 Console.WriteLine("Adding is " + result);
 
 float result1 = ClassLibrary1.Calculator.sub(a, b);
-Console.WriteLine("Substraction is " + result1);
+Console.WriteLine("Substraction is : " + result1);
 
 multply(a, b);
 
